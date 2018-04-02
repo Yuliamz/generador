@@ -7,7 +7,7 @@ package [c._package.qualifiedName.replaceAll('::', '.')/].logica;
 
 import [c._package.qualifiedName.replaceAll('::', '.')/].dto.*;
 import [c._package.qualifiedName.replaceAll('::', '.')/].persistencia.*;
-import [c._package.qualifiedName.replaceAll('::', '.')/].persistencia.entity.*;
+import [c._package.qualifiedName.replaceAll('::', '.')/].persistencia.entidad.*;
 import java.util.List;
 import java.util.ArrayList;
 import javax.ejb.EJB;
